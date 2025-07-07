@@ -29,10 +29,10 @@ Use this refresh token in your server-side apps to authenticate with Google APIs
 Clone the repository or simply download the `oauth2_refresh_token_generator.mjs` file.
 
 ```bash
-git clone [https://github.com/your-username/oauth2_refresh_token_generator.git](https://github.com/your-username/oauth2_refresh_token_generator.git)
+git clone https://github.com/Zero-Asif/oauth2_refresh_token_generator.git
 cd oauth2_refresh_token_generator
 ```
-*(If you download the file manually, just create a new folder and place the `.mjs` file inside it.)*
+*(If you download the file manually, just create a new folder and place the `oauth2_refresh_token_generator.mjs` file inside it.)*
 
 ### 2. Install Dependencies
 Navigate to the folder in your terminal and run:
