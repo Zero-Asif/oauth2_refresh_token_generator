@@ -71,9 +71,9 @@ If you have trouble pasting (Ctrl+V) your credentials into the Windows Command P
 | Terminal           | Paste Support         | How to Paste          |
 | ------------------ | --------------------- | --------------------- |
 | `cmd.exe`          | ⚠️ Yes (Right Click) | Use mouse **right-click** |
-| `PowerShell`       | ✅ Yes                | `Ctrl+V` works        |
-| `Git Bash`         | ✅ Yes                | `Ctrl+V` works        |
-| `Windows Terminal` | ✅ Yes                | `Ctrl+V` works        |
+| `PowerShell`       | ✅ Yes                | Use mouse **right-click** |
+| `Git Bash`         | ✅ Yes                | `Ctrl+V` works /  Use mouse **right-click** |
+| `Windows Terminal` | ✅ Yes                | `Ctrl+V` works /  Use mouse **right-click** |
 
 ---
 
